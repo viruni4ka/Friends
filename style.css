@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+body{
+    background-color: #FAEBD7;
+}
+
+header h1{
+    font-family: 'Delius';
+    color: #8B0000;
+    font-size: 60px;
+    text-align: center;
+}
+
+header img{
+    display: block;
+    margin: auto;
+    width: 900px;
+}
+
+main p{
+    font-size: 22px;
+    font-family: 'Delius';
+    font-weight: 500;
+    color: #8B0000; 
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    margin-top: 64px;
+}
+
+main h1{
+    font-size: 53px;
+    color: #8B0000;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 64px;
+    font-family: 'Delius';
+}
